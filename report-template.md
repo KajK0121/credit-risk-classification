@@ -25,13 +25,11 @@ The Logistic Regression Algorithm is selected as the most suitable tool for our 
 
 Step 3 [Split the Data into Training and Testing Sets], using the value_counts function, we are able to see that the data is highly imbalanced. The majority class is healthy loans [0] and the minority class is non-healthy loans [1]:
 
-# code
+code
 lending_data_df['loan_status'].value_counts()
 
-# output
-0    75036
-1     2500
-Name: loan_status, dtype: int64
+output
+<img width="272" alt="valuecount" src="https://github.com/KajK0121/credit-risk-classification/assets/140313204/9cebc60d-31f1-4c82-b221-5b4879c1273b">
 
 The stages of the machine learning process I went through as part of this analysis:
 1. Split the dataset into features (X) and labels (y).
