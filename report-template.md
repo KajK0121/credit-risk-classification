@@ -46,19 +46,20 @@ Leveraging logistic regression models, these approaches collectively tackle the 
 ## Results
 
 
-* Machine Learning Model 1:
- * Accuracy:
+### Machine Learning Model 1:
+ 
+ - **Accuracy:**
   - Overall Accuracy: 0.99 (exceptionally high)
 
- * Precision:
+- **Precision:**
   - Healthy Loans (0): 1.00
   - Non-Healthy Loans (1): 0.84 (slightly lower)
 
- * Recall
+- **Recall:**
   - Healthy Loans: 0.99
   - Non-Healthy Loans: 0.94
 
-  * Summary
+- **Summary:**
   - The model excels in overall accuracy, achieving an exceptionally high score of 0.99.
   - Precision for healthy loans is perfect (1.00), showcasing strong accuracy in positive predictions.
   - Precision for non-healthy loans is slightly lower at 0.84, indicating the presence of some false positives.
@@ -66,7 +67,7 @@ Leveraging logistic regression models, these approaches collectively tackle the 
   - In summary, the logistic regression model showcases a high level of correctness in predictions for both healthy and non-healthy loans, with a balance between precision and recall metrics.
 
 
-* Machine Learning Model 2:
+### Machine Learning Model 2:
 - **Accuracy:**
   - Overall Accuracy: 0.99 (very high)
 
