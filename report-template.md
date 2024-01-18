@@ -47,8 +47,8 @@ Leveraging logistic regression models, these approaches collectively tackle the 
 
 
 ### Machine Learning Model 1:
- 
- - **Accuracy:**
+
+- **Accuracy:**
   - Overall Accuracy: 0.99 (exceptionally high)
 
 - **Precision:**
